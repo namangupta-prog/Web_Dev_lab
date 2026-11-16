@@ -166,10 +166,7 @@ body {
   color: white;
 }
 
-@media (max-width: 700px) {
-  .bio-layout {
-    flex-direction: column;
-  }
+
 
   .primary-content,
   .bio-sidebar {
